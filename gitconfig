@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ja.melo321@gmail.com
+	name = jose melo
